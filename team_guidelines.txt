@@ -1,0 +1,1 @@
+New guideline: Always write meaningful commit messages
